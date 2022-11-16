@@ -1,0 +1,35 @@
+.main_card {
+  width: 350px;
+  height: 440px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 5px 20px 50px rgba(74, 153, 211, 0.2);
+  border-radius: 10px;
+}
+.main_more {
+  text-decoration: none;
+  list-style-type: none;
+  color: #4a99d3;
+}
+.main_about {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.main_img {
+  margin-bottom: 56px;
+  margin-left: 20px;
+}
+.main_text {
+  margin-bottom: 60px;
+}
+.main_header {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.main_helper {
+  margin: 40px;
+}
